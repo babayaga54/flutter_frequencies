@@ -1,6 +1,6 @@
 # tinnius_therapy
 
-A new Flutter project.
+Flutter - Sound - Frequencies ◆ TINNITUS FLUTTER
 
 ## Getting Started
 
